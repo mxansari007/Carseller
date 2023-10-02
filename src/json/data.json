@@ -1,0 +1,90 @@
+[
+    {   
+        "img":"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+        "title":"Toyota Rav4",
+        "people":4,
+        "type":"Hybrid",
+        "mileage":6.1,
+        "gear":"Automatic",
+        "price":"$400",
+        "liked":false,
+        "year":2021
+    },
+    {   
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/BMW_G20_IMG_0167.jpg/1920px-BMW_G20_IMG_0167.jpg",
+        "title":"BMW Series 3",
+        "people":2,
+        "type":"Gasoline",
+        "mileage":8.2,
+        "gear":"Automatic",
+        "price":"$350",
+        "liked":false,
+        "year":2019
+    },
+    {   
+        "img":"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+        "title":"Volkswagen T-Cross",
+        "people":4,
+        "type":"Gasoline",
+        "mileage":5.3,
+        "gear":"Automatic",
+        "price":"$400",
+        "liked":false,
+        "year":2020
+    },
+    {   
+        "img":"https://www.cadillac.com/content/dam/cadillac/na/us/english/index/vehicles/2023/crossover-suvs/escalade/01-images/large/my23-escalade-masthead-l.jpg?imwidth=960",
+        "title":"Cadillac Escalade",
+        "people":4,
+        "type":"Gasoline",
+        "mileage":7.7,
+        "gear":"Automatic",
+        "price":"$620",
+        "liked":false,
+        "year":2020
+    },
+    {   
+        "img":"https://cdni.autocarindia.com/utils/imageresizer.ashx?n=https://cms.haymarketindia.net/model/uploads/modelimages/BMW-4-Series-Coupe-150320221138.jpg",
+        "title":"BMW 4 Series GTI",
+        "people":4,
+        "type":"Gasoline",
+        "mileage":7.6,
+        "gear":"Automatic",
+        "price":"$530",
+        "liked":false,
+        "year":2021
+    },
+    {   
+        "img":"https://www.theoaklandpress.com/wp-content/uploads/2022/07/2022-BMW-430i-Gran-Coupe-2.jpg?w=525",
+        "title":"BMW 4 Series",
+        "people":4,
+        "type":"Gasoline",
+        "mileage":7.2,
+        "gear":"Automatic",
+        "price":"$490",
+        "liked":false,
+        "year":2019
+    },
+    {   
+        "img":"https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cms.haymarketindia.net/model/uploads/modelimages/G-ClassModelImage.jpg&w=386&h=256&q=75&c=1",
+        "title":"Mercedes G 63",
+        "people":6,
+        "type":"Hybrid",
+        "mileage":7.3,
+        "gear":"Automatic",
+        "price":"$600",
+        "liked":false,
+        "year":2022
+    },
+    {   
+        "img":"https://stimg.cardekho.com/images/carexteriorimages/630x420/Mercedes-Benz/GLC/6837/1595496146343/front-left-side-47.jpg?imwidth=420&impolicy=resize",
+        "title":"Mercedes-Benz GLC 200",
+        "people":4,
+        "type":"Gasoline",
+        "mileage":7.0,
+        "gear":"Automatic",
+        "price":"$500",
+        "liked":false,
+        "year":2019
+    }
+]

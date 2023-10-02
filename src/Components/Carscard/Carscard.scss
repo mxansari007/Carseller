@@ -1,0 +1,87 @@
+@import '../../main.scss';
+
+.cars-card-container{
+    display: flex;
+    flex-direction: column;
+    width:300px;
+    padding:15px;
+    border-radius: 15px;
+    background-color: #f4f8fb;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    margin-bottom: 25px;
+}
+
+.cars-card-title{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding:7px;
+    h4{
+        font-size: 1rem;
+        font-weight: 500;
+    }
+    p{
+        padding:5px;
+        border: 2px dotted $blue;
+        border-radius: 10px;
+        font-size: 0.7rem;
+    }
+}
+
+.cars-card-img{
+    display: flex;    
+    justify-content: center;
+    align-items: center;
+    img{
+    border-radius: 10px;
+    width:100%;
+    }
+
+}
+
+.cars-card-desc{
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 15px 7px;
+
+
+    p{
+        font-size: 0.7rem;
+    }
+}
+
+.cars-card-price{
+    border-top: 2px solid rgb(223, 221, 221);
+    display:flex;
+    justify-content: space-between;
+    padding-top:10px;
+}
+.cars-card-rent{
+    display: flex;
+}
+
+.cars-card-like{
+    padding:5px 7px;
+    border-radius: 5px;
+    color:$blue;
+    background-color: #eef4ff;
+    cursor: pointer;
+}
+
+.cars-card-button{
+    padding: 5px 10px;
+    border:none;
+    background-color: $dark-blue;
+    color:white;
+    border-radius: 4px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+.permonth{
+    font-size: 0.7rem;
+}
+
+.decs-icon{
+    color:$dark-blue;
+}

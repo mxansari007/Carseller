@@ -1,0 +1,23 @@
+$light-blue : #A6F6FF;
+$very-light-blue:#BEFFF7;
+$blue:#9EDDFF;
+$dark-blue:#6499E9;
+$background-blue:#f4f8fb;
+$general-shadow:rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+$light-shadow:rgba(149, 157, 165, 0.2) 0px 8px 24px;
+
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+    font-family: 'Poppins';
+}
+
+.body{
+    background-color: $background-blue;
+}
+
+
+.invisibel{
+    display: none;
+}

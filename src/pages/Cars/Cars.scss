@@ -1,0 +1,29 @@
+@import '../../main.scss';
+
+
+.cars-container{
+    width: 80%;
+    margin: auto;
+}
+
+.cars-content-section{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-top: 50px;
+}
+
+.pagination{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin-right: 8%;
+    padding: 20px;
+    background-color: $background-blue;
+    box-shadow: $general-shadow;
+    border-radius: 15px;
+    margin-bottom: 10px;
+}
+
+body{
+    background-color: $background-blue;
+}
