@@ -34,6 +34,8 @@ export default function Cars (){
     useEffect(()=>{
         if(searchValue!=''){
             setData(Data.filter(d => d.title.startsWith(searchValue)));
+        }else{
+            setData(Data.slice((pageId-1)*6,pageId*6));
         }
     },[searchValue])
 
